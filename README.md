@@ -7,4 +7,4 @@ Cara instalasi :
 - Simpan file index.php di dalam folder baru tersebut
 - Buka aplikasi XAMPP
 - Buat database dengan nama yang sama dengan yang disediakan lalu import database tersebut
-- Pada kolom URL ketikkan http://localhost/nama folder/index.php
+- Pada kolom URL ketikkan http://localhost/namaFolder/index.php
