@@ -8,3 +8,4 @@ Cara instalasi :
 - Buka aplikasi XAMPP
 - Buat database dengan nama yang sama dengan yang disediakan lalu import database tersebut
 - Pada kolom URL ketikkan http://localhost/namaFolder/index.php
+- Pastikan terhubung dengan jaringan internet
