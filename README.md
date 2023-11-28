@@ -1,4 +1,4 @@
-# Sistem Pendataan Mahasiswa Sederhana
+# Sistem Pendataan Mahasiswa Sederhana (CRUD) Berbasis Web
 
 Sistem sederhana untuk mengelola data mahasiswa dimana bisa menambah, mengubah, dan menghapus data. Data ini sudah tersinkronisasi dengan MySQL. Software yang dibutuhkan : XAMPP
 
